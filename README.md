@@ -1,9 +1,9 @@
 <p>
-    👋 Hi, I'm <a href="https://lilu.org.cn" target="_blank">llnancy</a>.
+    👋 Hi, I'm <a href="http://max23.cn" target="_blank">Max</a>.
     &nbsp;&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=llnancy.readme" alt="visitor-badge" />
 </p>
 
-<p><b> SunChaser / llnancy</b> are all of my <em>CODE NAME</em></p>
+<p><b> Max is my <em>CODE NAME</em></p>
 
 <em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
 
@@ -16,39 +16,7 @@
 - 🌱 I’m currently learning [*Kubernetes*](https://kubernetes.io/), [*Cloud Native*](https://www.cncf.io/)
 - 📫 You can get in touch with me by email at [admin@lilu.org.cn](mailto:admin@lilu.org.cn)
 
----
 
-### 📗 Education Experience
-
-[<img align="left" height="94px" width="94px" alt="HUBU" src="./assets/hubu.png"/>](https://www.hubu.edu.cn)
-
-**Bachelor Degree** \
-[**HUBU**](https://www.hubu.edu.cn) • 2015/09/01 - 2019/07/01 \
-Skills: `Computer Network`, `Operating System`, `Data Structure & Algorithm`, `Linux`, `C & C++`, `C#`, `PHP`, `Java`, `J2EE`, `etc.`
-
-### ⛳ Work Experience
-
-[<img align="left" height="80px" width="80px" alt="Netease" src="./assets/netease.png" />](https://www.163.com)
-
-**Senior Back-end Development Engineer** \
-[**Netease**](https://www.163.com) • 2022/01/04 - Now \
-Languages & Technologies: `Java`, `Python`, `gRPC`, `Graphql`, `Spring Boot`, `Spring Cloud`, `Redis`, `RabbitMQ` \
-<br />
-
-[<img align="left" height="80px" width="80px" alt="DiDi" src="./assets/didi.png" />](https://www.didiglobal.com)
-
-**Back-end Development Engineer** \
-[**DiDi**](https://www.didiglobal.com) • 2020/10/20 - 2021/12/27 \
-Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud`, `Redis` \
-<br />
-
-[<img align="left" height="80px" width="80px" alt="GaoYang" src="./assets/gaoyang.png" />](http://www.19pay.com.cn)
-
-**Back-end Development Engineer** \
-[**Gaoyang Jiexun**](http://www.19pay.com.cn) • 2019/07/01 - 2020/10/15 \
-Languages & Technologies: `Java`, `Spring Boot`, `Spring Cloud & Alibaba`, `Nacos`, `Dubbo`, `Redis`, `MongoDB`, `RocketMQ`, `xxl-job`, `Sharding-JDBC`
-
----
 <img align="right" height="160" src="https://count.getloli.com/get/@llnancy" alt="llnancy" />
 
 **Languages and Skills**
