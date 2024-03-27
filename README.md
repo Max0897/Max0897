@@ -14,7 +14,7 @@
 
 - 🎈 I am currently working at Netease as a senior back-end development engineer.
 - 🌱 I’m currently learning [*Kubernetes*](https://kubernetes.io/), [*Cloud Native*](https://www.cncf.io/)
-- 📫 You can get in touch with me by email at [admin@lilu.org.cn](mailto:admin@lilu.org.cn)
+- 📫 You can get in touch with me by email at [max@max23.cn](mailto:max@max23.cn)
 
 
 <img align="right" height="160" src="https://count.getloli.com/get/@llnancy" alt="llnancy" />
