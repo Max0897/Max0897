@@ -1,142 +1,34 @@
-<p>
-    👋 Hi, I'm <a href="http://max23.cn" target="_blank">Max</a>.
-    &nbsp;&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=llnancy.readme" alt="visitor-badge" />
+# Hey, I'm Max 👋
+
+I build web apps and backend services with a mix of JS/TS, Vue, React, Java, Go, and Python. I like clean architecture, cloud-native tooling, and shipping things that feel fast and reliable.
+
+<p align="center">
+  <a href="http://max23.cn" target="_blank">Blog</a> •
+  <a href="mailto:max@max23.cn">Email</a>
 </p>
 
-<p><b> Max is my <em>CODE NAME</em></p>
+<p align="center">
+  <a href="https://github.com/Max0897">
+    <img src="https://github-readme-stats.vercel.app/api?username=Max0897&show_icons=true&hide_title=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/Max0897">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max0897&layout=compact&theme=transparent&hide_border=true&card_width=360" alt="Top languages" />
+  </a>
+</p>
 
-<em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
+### 🔭 What I'm focusing on
 
-| <a href="https://github.com/llnancy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=llnancy&count_private=true&show_icons=true&icon_color=9370DB&text_color=9370DB&bg_color=ffffff&hide_border=true&hide_title=true&locale=en" alt="llnancy's github stats" /></a> | <a href="https://github.com/llnancy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llnancy&layout=compact&theme=buefy&hide_border=true&locale=en&card_width=420" /></a> |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+- Designing robust services with Java/Spring Boot and Go.
+- Building smooth user experiences in Vue and React.
+- Exploring container-native workflows to keep delivery repeatable.
 
-### 🤡 Brief Introduction
+### 🛠️ Tech at a glance
 
-- 🎈 I am currently working at Netease as a senior back-end development engineer.
-- 🌱 I’m currently learning [*Kubernetes*](https://kubernetes.io/), [*Cloud Native*](https://www.cncf.io/)
-- 📫 You can get in touch with me by email at [max@max23.cn](mailto:max@max23.cn)
+- **Frontend:** JavaScript/TypeScript, Vue, React
+- **Backend:** Java, Go, Python, Node.js
+- **Platforms:** Docker, Kubernetes, Linux
+- **Data & Messaging:** MySQL, Redis, MQs
 
+### 🤝 Reach out
 
-<img align="right" height="160" src="https://count.getloli.com/get/@llnancy" alt="llnancy" />
-
-**Languages and Skills**
-
-[![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
-[![](https://img.shields.io/badge/iPhone-13-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=ffffff)]([https://www.jetbrains.com/zh-cn/idea/)
-[![](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=ffffff)]([https://www.google.com/intl/zh-CN/chrome/)
-
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org/zh-cn/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=ffffff)](https://lesscss.org/)
-[![](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
-[![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-Yarn-2c8ebb?style=flat-square&logo=yarn&logoColor=ffffff)](https://yarnpkg.com/)
-[![](https://img.shields.io/badge/-gulp-CF4647?style=flat-square&logo=gulp&logoColor=ffffff)](https://www.gulpjs.com.cn/)
-
-[![](https://img.shields.io/badge/-Java-6DB33F?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/zh-CN/)
-[![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://spring.io/projects/spring-framework)
-[![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=ffffff)](https://spring.io/projects/spring-boot)
-[![](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=ffffff)](https://graphql.org/)
-[![](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)](https://maven.apache.org/)
-[![](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=ffffff)](https://tomcat.apache.org/)
-
-[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/cn/)
-[![](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
-
-[![](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
-[![](https://img.shields.io/badge/-Apache%20RocketMQ-D77310?style=flat-square&logo=Apache%20RocketMQ&logoColor=ffffff)](https://rocketmq.apache.org/)
-[![](https://img.shields.io/badge/-etcd-419EDA?style=flat-square&logo=etcd&logoColor=ffffff)](https://etcd.io/)
-
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-[![](https://img.shields.io/badge/-Serverless-fd5750?style=flat-square&logo=serverless&logoColor=ffffff)](https://www.serverless.com/)
-[![](https://img.shields.io/badge/-CNCF-231F20?style=flat-square&logo=CNCF&logoColor=ffffff)](https://www.cncf.io/)
-
-[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://www.markdownguide.org/)
-[![](https://img.shields.io/badge/-Hexo-0E83CD?style=flat-square&logo=Hexo&logoColor=ffffff)](https://hexo.io/zh-cn/)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=ffffff)](https://leetcode.cn/)
-
-<!-- 动态打字效果 -->
-<!-- <h1 align="center">
-    <a href="https://github.com/llnancy">
-        <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&lines=保持初心，即使笨手笨脚，也会走的很远。;笨鸟先飞&center=true&size=23&width=1000" alt="保持初心，即使笨手笨脚，也会走的很远。" />
-    </a>
-</h1> -->
-
-<!-- 贪吃蛇代码贡献图 -->
-<!--
-<div align="center">
-    <img src="./assets/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" />
-</div>
--->
-
-<!--
-⬇️**点击下方图片留言**⬇️
-
-<a href="https://chat.getloli.com/room/@llnancy.github?title=llnancy的Github留言板" target="_blank">![](https://chat.getloli.com/room/@llnancy.github/svg?width=620&height=140&limit=20&theme=light&title=llnancy@github:%20~&fontSize=13)</a>
--->
-
-### 👉 Some Gists
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<!-- productive-box start -->
-#### <a href="https://gist.github.com/f5eada56197da823b4cac1050a267745" target="_blank">我通常在夜晚工作 🦉</a>
-```text
-🌞 早晨     69 commits  ██▌░░░░░░░░░░░░░░░░░░  12.0%
-🌆 白天    171 commits  ██████▏░░░░░░░░░░░░░░  29.6%
-🌃 晚上    294 commits  ██████████▋░░░░░░░░░░  51.0%
-🌙 深夜     43 commits  █▌░░░░░░░░░░░░░░░░░░░   7.5%
-```
-<!-- productive-box end -->
-
-</td>
-<td valign="top" width="50%">
-
-<!-- netease-music-box start -->
-#### <a href="https://gist.github.com/475826c54f1a5cd2037aa96c604043c0" target="_blank">🎵 我最近一周的听歌排行</a>
-```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
-```
-
-<!-- netease-music-box end -->
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="2">
-
-<!-- dog-box start -->
-#### <a href="https://gist.github.com/e85d2e5765110be1d8cfe57f2557a130" target="_blank">🐶 舔狗日记</a>
-```text
-昨天你把我删了，我陷入了久久的沉思 。我想这其中一定有什么含义，你应该是欲擒故纵吧，嫌我不够爱你。突然觉得无理取闹的你变得更加可爱
-了，我会坚守我对你的爱的 你放心好啦！这么一想，突然对我俩的未来更有期望了呢。
-
-                                                                                            2024-03-27 星期三
-```
-<!-- dog-box end -->
-
-</td>
-</tr>
-</table>
+If you want to talk about shipping products, distributed systems, or front-end polish, drop me a line at [max@max23.cn](mailto:max@max23.cn).
