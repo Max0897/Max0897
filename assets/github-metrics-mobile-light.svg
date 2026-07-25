@@ -21,21 +21,21 @@
 <text x="198" y="107" class="stat-label">累计获赞</text>
 <text x="28" y="148" class="stat-value">4</text>
 <text x="28" y="169" class="stat-label">关注者</text>
-<text x="198" y="148" class="stat-value">120</text>
+<text x="198" y="148" class="stat-value">122</text>
 <text x="198" y="169" class="stat-label">年度贡献</text>
   <line x1="180" y1="68" x2="180" y2="169" stroke="#d0d7de" />
   <line x1="20" y1="124" x2="340" y2="124" stroke="#d0d7de" />
   <line x1="20" y1="190" x2="340" y2="190" stroke="#d0d7de" />
   <text x="20" y="218" class="section-title">语言分布</text>
   <clipPath id="language-bar"><rect x="20" y="232" width="320" height="10" rx="5" /></clipPath>
-  <g clip-path="url(#language-bar)"><rect x="20.00" y="232" width="120.27" height="10" fill="#00ADD8" />
-<rect x="140.27" y="232" width="101.26" height="10" fill="#3178c6" />
-<rect x="241.53" y="232" width="48.80" height="10" fill="#dea584" />
-<rect x="290.33" y="232" width="18.12" height="10" fill="#41b883" />
-<rect x="308.45" y="232" width="14.54" height="10" fill="#663399" />
-<rect x="322.99" y="232" width="17.01" height="10" fill="#656d76" /></g>
+  <g clip-path="url(#language-bar)"><rect x="20.00" y="232" width="119.99" height="10" fill="#00ADD8" />
+<rect x="139.99" y="232" width="101.03" height="10" fill="#3178c6" />
+<rect x="241.02" y="232" width="48.69" height="10" fill="#dea584" />
+<rect x="289.70" y="232" width="18.08" height="10" fill="#41b883" />
+<rect x="307.78" y="232" width="14.51" height="10" fill="#663399" />
+<rect x="322.29" y="232" width="17.71" height="10" fill="#656d76" /></g>
   <circle cx="24" cy="266" r="4" fill="#00ADD8" />
-<text x="34" y="269" class="legend">Go · 38%</text>
+<text x="34" y="269" class="legend">Go · 37%</text>
 <circle cx="194" cy="266" r="4" fill="#3178c6" />
 <text x="204" y="269" class="legend">TypeScript · 32%</text>
 <circle cx="24" cy="289" r="4" fill="#dea584" />
@@ -45,7 +45,7 @@
 <circle cx="24" cy="312" r="4" fill="#663399" />
 <text x="34" y="315" class="legend">CSS · 5%</text>
 <circle cx="194" cy="312" r="4" fill="#656d76" />
-<text x="204" y="315" class="legend">其他 · 5%</text>
+<text x="204" y="315" class="legend">其他 · 6%</text>
   <line x1="20" y1="337" x2="340" y2="337" stroke="#d0d7de" />
   <text x="20" y="367" class="section-title">贡献日历</text>
   <text x="20" y="409" class="calendar-label">周一</text>
@@ -421,5 +421,5 @@
 <rect x="339.15" y="416.95" width="4.5" height="4.5" rx="1" fill="#ebedf0"><title>2026-07-22：0 次贡献</title></rect>
 <rect x="339.15" y="422.60" width="4.5" height="4.5" rx="1" fill="#ebedf0"><title>2026-07-23：0 次贡献</title></rect>
 <rect x="339.15" y="428.25" width="4.5" height="4.5" rx="1" fill="#ebedf0"><title>2026-07-24：0 次贡献</title></rect>
-<rect x="339.15" y="433.90" width="4.5" height="4.5" rx="1" fill="#ebedf0"><title>2026-07-25：0 次贡献</title></rect>
+<rect x="339.15" y="433.90" width="4.5" height="4.5" rx="1" fill="#40c463"><title>2026-07-25：2 次贡献</title></rect>
 </svg>
