@@ -14,38 +14,38 @@
   </style>
   <rect x="0.5" y="0.5" width="359" height="457" rx="6" fill="#0d1117" stroke="#30363d" />
   <text x="20" y="31" class="heading">开发数据</text>
-  <text x="340" y="29" text-anchor="end" class="updated">每日更新 · 2026年7月29日</text>
+  <text x="340" y="29" text-anchor="end" class="updated">每日更新 · 2026年7月30日</text>
   <text x="28" y="86" class="stat-value">9</text>
 <text x="28" y="107" class="stat-label">公开仓库</text>
-<text x="198" y="86" class="stat-value">30</text>
+<text x="198" y="86" class="stat-value">32</text>
 <text x="198" y="107" class="stat-label">累计获赞</text>
 <text x="28" y="148" class="stat-value">4</text>
 <text x="28" y="169" class="stat-label">关注者</text>
-<text x="198" y="148" class="stat-value">415</text>
+<text x="198" y="148" class="stat-value">443</text>
 <text x="198" y="169" class="stat-label">年度贡献</text>
   <line x1="180" y1="68" x2="180" y2="169" stroke="#30363d" />
   <line x1="20" y1="124" x2="340" y2="124" stroke="#30363d" />
   <line x1="20" y1="190" x2="340" y2="190" stroke="#30363d" />
   <text x="20" y="218" class="section-title">语言分布</text>
   <clipPath id="language-bar"><rect x="20" y="232" width="320" height="10" rx="5" /></clipPath>
-  <g clip-path="url(#language-bar)"><rect x="20.00" y="232" width="124.28" height="10" fill="#3178c6" />
-<rect x="144.28" y="232" width="96.69" height="10" fill="#00ADD8" />
-<rect x="240.97" y="232" width="55.87" height="10" fill="#dea584" />
-<rect x="296.84" y="232" width="14.57" height="10" fill="#41b883" />
-<rect x="311.40" y="232" width="14.19" height="10" fill="#663399" />
-<rect x="325.60" y="232" width="14.40" height="10" fill="#8b949e" /></g>
+  <g clip-path="url(#language-bar)"><rect x="20.00" y="232" width="121.82" height="10" fill="#3178c6" />
+<rect x="141.82" y="232" width="92.81" height="10" fill="#00ADD8" />
+<rect x="234.63" y="232" width="63.88" height="10" fill="#dea584" />
+<rect x="298.51" y="232" width="13.98" height="10" fill="#41b883" />
+<rect x="312.49" y="232" width="13.68" height="10" fill="#663399" />
+<rect x="326.17" y="232" width="13.83" height="10" fill="#8b949e" /></g>
   <circle cx="24" cy="266" r="4" fill="#3178c6" />
-<text x="34" y="269" class="legend">TypeScript · 39%</text>
+<text x="34" y="269" class="legend">TypeScript · 38%</text>
 <circle cx="194" cy="266" r="4" fill="#00ADD8" />
-<text x="204" y="269" class="legend">Go · 30%</text>
+<text x="204" y="269" class="legend">Go · 29%</text>
 <circle cx="24" cy="289" r="4" fill="#dea584" />
-<text x="34" y="292" class="legend">Rust · 17%</text>
+<text x="34" y="292" class="legend">Rust · 20%</text>
 <circle cx="194" cy="289" r="4" fill="#41b883" />
-<text x="204" y="292" class="legend">Vue · 5%</text>
+<text x="204" y="292" class="legend">Vue · 4%</text>
 <circle cx="24" cy="312" r="4" fill="#663399" />
 <text x="34" y="315" class="legend">CSS · 4%</text>
 <circle cx="194" cy="312" r="4" fill="#8b949e" />
-<text x="204" y="315" class="legend">其他 · 5%</text>
+<text x="204" y="315" class="legend">其他 · 4%</text>
   <line x1="20" y1="337" x2="340" y2="337" stroke="#30363d" />
   <text x="20" y="367" class="section-title">贡献日历</text>
   <text x="20" y="409" class="calendar-label">周一</text>
@@ -418,5 +418,6 @@
 <rect x="339.15" y="400.00" width="4.5" height="4.5" rx="1" fill="#39d353"><title>2026-07-26：37 次贡献</title></rect>
 <rect x="339.15" y="405.65" width="4.5" height="4.5" rx="1" fill="#26a641"><title>2026-07-27：22 次贡献</title></rect>
 <rect x="339.15" y="411.30" width="4.5" height="4.5" rx="1" fill="#26a641"><title>2026-07-28：17 次贡献</title></rect>
-<rect x="339.15" y="416.95" width="4.5" height="4.5" rx="1" fill="#26a641"><title>2026-07-29：11 次贡献</title></rect>
+<rect x="339.15" y="416.95" width="4.5" height="4.5" rx="1" fill="#39d353"><title>2026-07-29：30 次贡献</title></rect>
+<rect x="339.15" y="422.60" width="4.5" height="4.5" rx="1" fill="#26a641"><title>2026-07-30：9 次贡献</title></rect>
 </svg>
