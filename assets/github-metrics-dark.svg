@@ -14,14 +14,14 @@
   </style>
   <rect x="0.5" y="0.5" width="899" height="477" rx="6" fill="#0d1117" stroke="#30363d" />
   <text x="40" y="45" class="heading">开发数据</text>
-  <text x="860" y="43" text-anchor="end" class="updated">每日自动更新 · 2026年10月20日</text>
+  <text x="860" y="43" text-anchor="end" class="updated">每日自动更新 · 2026年10月21日</text>
   <text x="55" y="106" class="stat-value">11</text>
 <text x="55" y="132" class="stat-label">公开仓库</text>
 <text x="265" y="106" class="stat-value">63</text>
 <text x="265" y="132" class="stat-label">累计获赞</text>
 <text x="475" y="106" class="stat-value">4</text>
 <text x="475" y="132" class="stat-label">关注者</text>
-<text x="685" y="106" class="stat-value">583</text>
+<text x="685" y="106" class="stat-value">587</text>
 <text x="685" y="132" class="stat-label">年度贡献</text>
   <line x1="235" y1="84" x2="235" y2="136" stroke="#30363d" />
 <line x1="445" y1="84" x2="445" y2="136" stroke="#30363d" />
@@ -29,10 +29,10 @@
   <line x1="40" y1="164" x2="860" y2="164" stroke="#30363d" />
   <text x="40" y="198" class="section-title">语言分布</text>
   <clipPath id="language-bar"><rect x="40" y="218" width="820" height="12" rx="6" /></clipPath>
-  <g clip-path="url(#language-bar)"><rect x="40.00" y="218" width="696.40" height="12" fill="#3178c6" />
-<rect x="736.40" y="218" width="69.86" height="12" fill="#dea584" />
+  <g clip-path="url(#language-bar)"><rect x="40.00" y="218" width="696.34" height="12" fill="#3178c6" />
+<rect x="736.34" y="218" width="69.92" height="12" fill="#dea584" />
 <rect x="806.26" y="218" width="19.08" height="12" fill="#f1e05a" />
-<rect x="825.34" y="218" width="13.25" height="12" fill="#41b883" />
+<rect x="825.35" y="218" width="13.25" height="12" fill="#41b883" />
 <rect x="838.59" y="218" width="9.92" height="12" fill="#663399" />
 <rect x="848.51" y="218" width="11.49" height="12" fill="#8b949e" /></g>
   <circle cx="45" cy="259" r="5" fill="#3178c6" />
@@ -423,5 +423,6 @@
 <rect x="816" y="452" width="10" height="10" rx="2" fill="#21262d"><title>2026-10-17：0 次贡献</title></rect>
 <rect x="829" y="374" width="10" height="10" rx="2" fill="#21262d"><title>2026-10-18：0 次贡献</title></rect>
 <rect x="829" y="387" width="10" height="10" rx="2" fill="#21262d"><title>2026-10-19：0 次贡献</title></rect>
-<rect x="829" y="400" width="10" height="10" rx="2" fill="#21262d"><title>2026-10-20：0 次贡献</title></rect>
+<rect x="829" y="400" width="10" height="10" rx="2" fill="#0e4429"><title>2026-10-20：2 次贡献</title></rect>
+<rect x="829" y="413" width="10" height="10" rx="2" fill="#0e4429"><title>2026-10-21：2 次贡献</title></rect>
 </svg>
