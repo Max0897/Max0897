@@ -14,32 +14,32 @@
   </style>
   <rect x="0.5" y="0.5" width="359" height="457" rx="6" fill="#ffffff" stroke="#d0d7de" />
   <text x="20" y="31" class="heading">开发数据</text>
-  <text x="340" y="29" text-anchor="end" class="updated">每日更新 · 2026年11月9日</text>
+  <text x="340" y="29" text-anchor="end" class="updated">每日更新 · 2026年11月10日</text>
   <text x="28" y="86" class="stat-value">11</text>
 <text x="28" y="107" class="stat-label">公开仓库</text>
 <text x="198" y="86" class="stat-value">65</text>
 <text x="198" y="107" class="stat-label">累计获赞</text>
 <text x="28" y="148" class="stat-value">4</text>
 <text x="28" y="169" class="stat-label">关注者</text>
-<text x="198" y="148" class="stat-value">591</text>
+<text x="198" y="148" class="stat-value">594</text>
 <text x="198" y="169" class="stat-label">年度贡献</text>
   <line x1="180" y1="68" x2="180" y2="169" stroke="#d0d7de" />
   <line x1="20" y1="124" x2="340" y2="124" stroke="#d0d7de" />
   <line x1="20" y1="190" x2="340" y2="190" stroke="#d0d7de" />
   <text x="20" y="218" class="section-title">语言分布</text>
   <clipPath id="language-bar"><rect x="20" y="232" width="320" height="10" rx="5" /></clipPath>
-  <g clip-path="url(#language-bar)"><rect x="20.00" y="232" width="271.30" height="10" fill="#3178c6" />
-<rect x="291.30" y="232" width="27.26" height="10" fill="#dea584" />
-<rect x="318.55" y="232" width="7.97" height="10" fill="#f1e05a" />
-<rect x="326.52" y="232" width="5.12" height="10" fill="#41b883" />
-<rect x="331.64" y="232" width="3.92" height="10" fill="#663399" />
-<rect x="335.56" y="232" width="4.44" height="10" fill="#656d76" /></g>
+  <g clip-path="url(#language-bar)"><rect x="20.00" y="232" width="271.26" height="10" fill="#3178c6" />
+<rect x="291.26" y="232" width="27.25" height="10" fill="#dea584" />
+<rect x="318.51" y="232" width="8.00" height="10" fill="#f1e05a" />
+<rect x="326.51" y="232" width="5.12" height="10" fill="#41b883" />
+<rect x="331.63" y="232" width="3.92" height="10" fill="#663399" />
+<rect x="335.55" y="232" width="4.45" height="10" fill="#656d76" /></g>
   <circle cx="24" cy="266" r="4" fill="#3178c6" />
 <text x="34" y="269" class="legend">TypeScript · 85%</text>
 <circle cx="194" cy="266" r="4" fill="#dea584" />
 <text x="204" y="269" class="legend">Rust · 9%</text>
 <circle cx="24" cy="289" r="4" fill="#f1e05a" />
-<text x="34" y="292" class="legend">JavaScript · 2%</text>
+<text x="34" y="292" class="legend">JavaScript · 3%</text>
 <circle cx="194" cy="289" r="4" fill="#41b883" />
 <text x="204" y="292" class="legend">Vue · 2%</text>
 <circle cx="24" cy="312" r="4" fill="#663399" />
@@ -414,8 +414,9 @@
 <rect x="333.50" y="411.30" width="4.5" height="4.5" rx="1" fill="#30a14e"><title>2026-11-03：10 次贡献</title></rect>
 <rect x="333.50" y="416.95" width="4.5" height="4.5" rx="1" fill="#40c463"><title>2026-11-04：6 次贡献</title></rect>
 <rect x="333.50" y="422.60" width="4.5" height="4.5" rx="1" fill="#9be9a8"><title>2026-11-05：2 次贡献</title></rect>
-<rect x="333.50" y="428.25" width="4.5" height="4.5" rx="1" fill="#ebedf0"><title>2026-11-06：0 次贡献</title></rect>
-<rect x="333.50" y="433.90" width="4.5" height="4.5" rx="1" fill="#ebedf0"><title>2026-11-07：0 次贡献</title></rect>
+<rect x="333.50" y="428.25" width="4.5" height="4.5" rx="1" fill="#9be9a8"><title>2026-11-06：1 次贡献</title></rect>
+<rect x="333.50" y="433.90" width="4.5" height="4.5" rx="1" fill="#9be9a8"><title>2026-11-07：1 次贡献</title></rect>
 <rect x="339.15" y="400.00" width="4.5" height="4.5" rx="1" fill="#ebedf0"><title>2026-11-08：0 次贡献</title></rect>
 <rect x="339.15" y="405.65" width="4.5" height="4.5" rx="1" fill="#ebedf0"><title>2026-11-09：0 次贡献</title></rect>
+<rect x="339.15" y="411.30" width="4.5" height="4.5" rx="1" fill="#9be9a8"><title>2026-11-10：1 次贡献</title></rect>
 </svg>
